@@ -254,4 +254,4 @@
 [cd695f6e-02b1-4c56-9dd7-c89b39c00d38] 18/04/2026 14:49:36 TRACE org.hibernate.orm.jdbc.bind - binding parameter (1:VARCHAR) <- [EXPORT]
 [cd695f6e-02b1-4c56-9dd7-c89b39c00d38] 18/04/2026 14:49:36 INFO  statistics - Daily export done in 92 ms
 [cd695f6e-02b1-4c56-9dd7-c89b39c00d38] 18/04/2026 14:49:36 INFO  ra.edu.logging.RequestIdFilter - END REQUEST
-[] 18/04/2026 15:34:26 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m16s994ms577µs).
+
